@@ -1,7 +1,7 @@
 # Nutrition Data Analysis
 ## Dataset
 
- Dataset file: dataanalysisintro/nutr.csv
+ Dataset file: 'nutr.csv'
 
 
 ## Introduction
